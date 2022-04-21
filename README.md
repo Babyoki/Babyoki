@@ -1,11 +1,1 @@
-### Hey! Nice to see you.
-### Welcome to my page! 
-### I'm Anran Wu. You can call me Annie. Now pursuing Business Analytics master degree in the United States.
-
-<!--
-**Babyoki/Babyoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
--->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
