@@ -1,0 +1,5 @@
+# Import module
+from IPython.display import IFrame
+
+# Import Tableau Visualization 
+IFrame('https://public.tableau.com/views/EmployeeAttrition_16830622023100/Dashboard1?:embed=y&:display_count=yes&:showVizHome=no', width=2400, height=2400)
